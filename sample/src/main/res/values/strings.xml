@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DNToggleButton</string>
+    <string name="change_theme">Theme [Day Mode]</string>
+</resources>

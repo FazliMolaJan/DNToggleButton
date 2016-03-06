@@ -1,0 +1,6 @@
+<resources>
+    <declare-styleable name="DNToggleButton">
+        <!--动画持续时间-->
+        <attr name="duration" format="integer"/>
+    </declare-styleable>
+</resources>
